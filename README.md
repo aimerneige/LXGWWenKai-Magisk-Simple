@@ -18,6 +18,7 @@
 如果您要自己打包，请先在 [LxgwWenKai/releases](https://github.com/lxgw/LxgwWenKai/releases) 下载字体文件并拷贝至 `system/fonts` 文件夹下。
 
 ```bash
+system/fonts
 ├── LXGWWenKai-Bold.ttf
 ├── LXGWWenKai-Light.ttf
 └── LXGWWenKai-Regular.ttf
