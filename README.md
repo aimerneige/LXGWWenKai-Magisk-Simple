@@ -6,6 +6,12 @@
 
 ## 下载
 
+非原生系统谨慎刷入
+
+本项目不会对您的 **设备损坏** 及 **数据丢失** 负责，下载 release 视为同意。
+
+> md5 `16ad51bdbe154cafece1b08ea56d5b39` `LXGWWenKai-Magisk-Simple-v1.0.220731.zip`
+
 - 在 GitHub 直接下载：<https://github.com/aimerneige/LXGWWenKai-Magisk-Simple/releases>
 - 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/lxgwwenkai-magisk-simple-v1.0.220731.zip>
 
