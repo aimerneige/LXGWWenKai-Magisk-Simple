@@ -7,7 +7,7 @@
 ## 下载
 
 - 在 GitHub 直接下载：<https://github.com/aimerneige/LXGWWenKai-Magisk-Simple/releases>
-- 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/lxgwwenkai-magisk-simple.zip>
+- 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/lxgwwenkai-magisk-simple-v1.0.220731.zip>
 
 ## 打包 
 
